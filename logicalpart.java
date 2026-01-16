@@ -63,15 +63,15 @@ class logicalpart{
     //     }
     //     i++;
     //    }
-//     int num=12575;
-//     int count=0;
-//    while(num>0)
-//     {
-//         count++;
-//         num=num/10;
-//     }
-//     System.out.println(count);
-//     }
+    int num=12575;
+    int count=0;
+   while(num>0)
+    {
+        count++;
+        num=num/10;
+    }
+    System.out.println(count);
+    }
 
 // int num = 100;
 // int rev = 0;
@@ -85,5 +85,8 @@ class logicalpart{
 // System.out.println(rev);
 // }
     
+
+
+
     }
 }
